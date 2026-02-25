@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.douyin_storage_state.json
+config.json
